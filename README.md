@@ -4,12 +4,10 @@
 <h1 align="center">Hi 👋, I'm Hanzala Tahir</h1>
 <h3 align="center">A passionate Web Developer From Pakistan</h3>
 
-<!-- Add the GIF below the "passionate Web Developer" on the right -->
-<div style="display: inline-block; vertical-align: middle;">
-  <p style="display: inline-block; margin-right: 20px;">
-    A passionate Web Developer From Pakistan
-  </p>
-  <img src="https://i.pinimg.com/originals/18/2c/38/182c3877f717f3ecbbf379e36699aa0e.gif" alt="Coding Image" width="350" style="display: inline-block;" />
+<!-- Add the GIF below the "passionate Web Developer" on the right and align text and GIF horizontally -->
+<div style="display: flex; justify-content: center; align-items: center;">
+  <h3 style="margin-right: 20px;">A passionate Web Developer From Pakistan</h3>
+  <img src="https://i.pinimg.com/originals/18/2c/38/182c3877f717f3ecbbf379e36699aa0e.gif" alt="Coding Image" width="350" />
 </div>
 
 <p align="left">
