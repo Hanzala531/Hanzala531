@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img align="center" width="100%" src="https://github.com/Hanzala531/Hanzala531/blob/88087b1b225100d8b55fa50e7d429afcbe2a0b29/images%20(1).jpeg" alt="GitHub Banner" />
+<img align="center" width="100%" src="https://www.freepik.com/premium-ai-image/modern-github-banner-software-engineer-profile_343496618.htm?psig=AOvVaw2jEIQ1UR2OefsayT_rDfmE&ust=1734797986879000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID9paLgtooDFQAAAAAdAAAAABAE" alt="GitHub Banner" />
 
 <h1 align="center">Hi 👋, I'm Hanzala Tahir</h1>
 <h3 align="center">A passionate Web Developer From Pakistan</h3>
