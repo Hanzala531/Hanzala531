@@ -4,11 +4,10 @@
 <h1 align="center">Hi 👋, I'm Hanzala Tahir</h1>
 <h3 align="center">A passionate Web Developer From Pakistan</h3>
 
-<!-- Add the GIF below the "passionate Web Developer" on the right and align text and GIF horizontally -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <h3 style="margin-right: 20px;">A passionate Web Developer From Pakistan</h3>
+<!-- Add the GIF below the "passionate Web Developer" on the right -->
+<p align="right">
   <img src="https://i.pinimg.com/originals/18/2c/38/182c3877f717f3ecbbf379e36699aa0e.gif" alt="Coding Image" width="350" />
-</div>
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hanzala531&label=Profile%20views&color=0e75b6&style=flat" alt="hanzala531" />
@@ -61,4 +60,4 @@
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzala531&show_icons=true&locale=en" alt="GitHub Stats - Hanzala531" />
-</p>
+
