@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img align="center" width="100%" src="https://www.freepik.com/premium-ai-image/modern-github-banner-software-engineer-profile_343496618.htm?psig=AOvVaw2jEIQ1UR2OefsayT_rDfmE&ust=1734797986879000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID9paLgtooDFQAAAAAdAAAAABAE" alt="GitHub Banner" />
+<img align="center" width="100%" src="https://img.freepik.com/premium-photo/modern-github-banner-software-engineer-profile_886588-48582.jpg" alt="GitHub Banner" />
 
 <h1 align="center">Hi 👋, I'm Hanzala Tahir</h1>
 <h3 align="center">A passionate Web Developer From Pakistan</h3>
@@ -55,10 +55,6 @@
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzala531&show_icons=true&locale=en" alt="GitHub Stats - Hanzala531" />
-</p>
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=hanzala531" alt="GitHub Streak Stats - Hanzala531" />
 </p>
 
 <!-- Coding GIF -->
