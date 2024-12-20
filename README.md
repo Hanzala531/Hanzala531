@@ -4,26 +4,23 @@
 <h1 align="center">Hi 👋, I'm Hanzala Tahir</h1>
 <h3 align="center">A passionate Web Developer From Pakistan</h3>
 
-<!-- Wrap the content in a flex container to align the text and GIF side by side -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-  <!-- Text content on the left -->
-  <div>
-    <p>🌱 I’m currently learning <b>NodeJs, MongoDB, and Express</b></p>
-    <p>💬 Ask me about <b>HTML, CSS, JavaScript, and Java OOPS</b></p>
-    <p>📫 How to reach me <b>hanalatahir@gmail.com</b></p>
-  </div>
-
-  <!-- GIF on the right -->
-  <div>
-    <img src="https://i.pinimg.com/originals/18/2c/38/182c3877f717f3ecbbf379e36699aa0e.gif" alt="Coding Image" width="350" />
-  </div>
-
+<!-- Add the GIF below the "passionate Web Developer" on the right -->
+<div style="display: inline-block; vertical-align: middle;">
+  <p style="display: inline-block; margin-right: 20px;">
+    A passionate Web Developer From Pakistan
+  </p>
+  <img src="https://i.pinimg.com/originals/18/2c/38/182c3877f717f3ecbbf379e36699aa0e.gif" alt="Coding Image" width="350" style="display: inline-block;" />
 </div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hanzala531&label=Profile%20views&color=0e75b6&style=flat" alt="hanzala531" />
 </p>
+
+- 🌱 I’m currently learning **NodeJs, MongoDB, and Express**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, and Java OOPS**
+
+- 📫 How to reach me **hanalatahir@gmail.com**
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
