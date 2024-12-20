@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hanzala Tahir's GitHub Profile</title>
+    <style>
+        .profile-views {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="profile-views">
+    Profile views: 56
+</div>
+
 <img align="center" width="100%" src="https://img.freepik.com/premium-photo/modern-github-banner-software-engineer-profile_886588-48582.jpg" alt="GitHub Banner" />
 
 <h1 align="center">Hi , I'm Hanzala Tahir</h1>
@@ -40,6 +57,3 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-
