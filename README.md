@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=hanzala531&label=Profile%20views&color=0e75b6&style=flat" alt="hanzala531" /> 
 </p>
 
-<img align="right" src="https://i.pinimg.com/originals/18/2c/38/182c3877f717f3ecbbf379e36699aa0e.gif" alt="coding image" width="450px" />
+<img align="right" src="https://i.pinimg.com/originals/18/2c/38/182c3877f717f3ecbbf379e36699aa0e.gif" alt="coding image" width="350px" />
 
 - 🌱 I’m currently learning **Node.js, MongoDB, and Express**
 
