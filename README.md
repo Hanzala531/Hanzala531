@@ -1,7 +1,7 @@
 <img src="/assets/ezgif.com-gif-maker.gif" alt="banner">
  
 <p align="center">
-  <a href="https://github.com/codeashing">
+  <a href="https://github.com/Hanzala531">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Hanzala+Tahir" alt="Hanzala Tahir" /></a>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -12,13 +12,14 @@
 🔭 Currently working on developing engaging web applications with a strong focus on user experience, performance optimization, and captivating animations.<br><br>
 👯 Open to collaborating on front-end and backend projects.<br><br>
 🌱 Refining my animation skills, specializing in dynamic page transitions, interactive scrolling effects, and exploring the potential of 3D animations.<br><br>
-💬 Happy to help with full-stack development queries. Reach out at **hanalatahir@gmail.com**<br><br>
+💬 Happy to help with full-stack development queries. Reach out at **hanzalatahirmail@gmail.com**<br><br>
 ⚡ Fun fact: I have a soft spot for anime and believe it's a great source of inspiration for creative design.
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzala-tahir-331624282/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hanzala531)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzala-tahir-331624282/)
 
 ---
 
@@ -42,12 +43,12 @@
 # 📊 GitHub Stats:
 ### **Total Contributions, Streak, & Longest Streak**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeashing&theme=dark&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanzala531&theme=dark&hide_border=false" alt="GitHub Streak">
 </p>
 
 ### **Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeashing&theme=dark&hide_border=false&layout=compact&langs_count=6" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzala531&theme=dark&hide_border=false&layout=compact&langs_count=6" alt="Most Used Languages">
 </p>
 
 ---
