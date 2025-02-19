@@ -41,7 +41,7 @@
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hanzala531&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hanzala531&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?username=hanzala531&theme=dark&hide_border=false)<br/>
 
 ### **Most Used Languages**
 <p align="center">
