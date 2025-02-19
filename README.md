@@ -41,7 +41,8 @@
 # 📊 GitHub Stats:
 ### **Total Contributions, Streak, & Longest Streak**
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hanzala531&theme=dark&hide_border=false" alt="GitHub Streak">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Hanzala531&token=YOUR_GITHUB_TOKEN)
+
 </p>
 
 
