@@ -12,7 +12,7 @@
 🔭 Currently working on developing engaging web applications with a strong focus on user experience, performance optimization, and captivating animations.<br><br>
 👯 Open to collaborating on front-end and backend projects.<br><br>
 🌱 Refining my animation skills, specializing in dynamic page transitions, interactive scrolling effects, and exploring the potential of 3D animations.<br><br>
-💬 Happy to help with full-stack development queries. Reach out at **hanzalatahirmail@gmail.com**<br><br>
+💬 Happy to help with full-stack development queries. Reach out at **hanalatahirmail@gmail.com**<br><br>
 ⚡ Fun fact: I have a soft spot for anime and believe it's a great source of inspiration for creative design.
 
 ---
@@ -33,9 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![Three.js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) 
 ![GreenSock](https://img.shields.io/badge/green%20sock-88CE02?style=plastic&logo=greensock&logoColor=white) 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 
 ---
