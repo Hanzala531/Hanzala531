@@ -1,18 +1,12 @@
 <img src="/assets/ezgif.com-gif-maker.gif" alt="banner">
-
+ 
 <p align="center">
   <a href="https://github.com/Hanzala531">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Hanzala+Tahir" alt="Hanzala Tahir" />
-  </a>
-  
-  <br/>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Hanzala+Tahir" alt="Hanzala Tahir" /></a>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Developer!&center=true&width=600&height=45&color=4E96FF&size=22" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Developer!&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
----
 
 # 💫 About Me:
 🔭 Currently working on developing engaging web applications with a strong focus on user experience, performance optimization, and captivating animations.<br><br>
@@ -44,12 +38,12 @@
 
 ---
 
+ 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hanzala531&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HanzalaTahir&theme=dark&hide_border=false)<br/> 
+### **Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanzala531&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanzala531&theme=dark&hide_border=false" alt="GitHub Streak">
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzala531&theme=dark&hide_border=false&layout=compact&langs_count=6" alt="Most Used Languages">
 </p>
 
