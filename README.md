@@ -38,13 +38,10 @@
 
 ---
 
+ 
 # 📊 GitHub Stats:
-### **Total Contributions, Streak, & Longest Streak**
-<p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Hanzala531&token=YOUR_GITHUB_TOKEN)
-
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=mhamsha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhamsha&theme=dark&hide_border=false)<br/>
 
 ### **Most Used Languages**
 <p align="center">
