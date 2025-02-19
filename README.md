@@ -40,9 +40,8 @@
 
 # 📊 GitHub Stats:
 ### **Total Contributions, Streak, & Longest Streak**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanzala531&theme=dark&hide_border=false" alt="GitHub Streak">
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hanzala531&theme=dark&hide_border=false)
+
 
 ### **Most Used Languages**
 <p align="center">
