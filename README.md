@@ -32,6 +32,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-43853D?style=plastic&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
 ![GreenSock](https://img.shields.io/badge/green%20sock-88CE02?style=plastic&logo=greensock&logoColor=white) 
@@ -41,8 +42,9 @@
 
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hanzala531&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HanzalaTahir&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api?username=m-abdullah-awais&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-awais&theme=dark&hide_border=false)<br/> 
+### *Most Used Languages*
 ### **Most Used Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzala531&theme=dark&hide_border=false&layout=compact&langs_count=6" alt="Most Used Languages">
